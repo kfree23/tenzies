@@ -19,6 +19,9 @@ A dice game where you roll until all dice show the same number. Click to "freeze
 - JavaScript
 - CSS
 
+## Play Here
+https://tenzies-kohl.vercel.app/
+
 ## Screenshot
 <img width="710" height="660" alt="Screenshot 2026-03-19 at 10 43 09 AM" src="https://github.com/user-attachments/assets/2f3361de-a3d0-4b1a-a5c1-41a00ce29920" />
 <img width="801" height="676" alt="Screenshot 2026-03-19 at 10 43 28 AM" src="https://github.com/user-attachments/assets/533d14fd-1f2b-4104-94a3-26493c7485df" />
